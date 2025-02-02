@@ -65,7 +65,7 @@ def call_server(username, password, variance=0.0001):
     except KeyboardInterrupt:
         pass
     end= time.perf_counter()
-    sleep(0.001) # Wait so as to not overload the server with 90 students at once!
+    # sleep(0.001) # Wait so as to not overload the server with 90 students at once!
     return (reply), end - start
 
 

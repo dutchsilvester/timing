@@ -17,8 +17,8 @@ class MyCounter(Counter):
 # sample geeft het aantal te nemen steekproeven weer. Voor het testen handis als deze laag is. 
 sample=10
 # declaratie van de gebruiker
-user='479358'
-#user='000000'
+#user='479358'
+user='000000'
 # declaratie van debug, binnendoorpaadje handig voor het testen
 debug=False
 # vastgezette waarde om te winnen

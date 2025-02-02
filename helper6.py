@@ -29,6 +29,5 @@ def pas_sub_wachtwoord_aan(index=0,wachtwoord=[],character="b"):
         door het character
     """
     wachtwoord[index]=character
-    return wachtwoord
-    
+    return wachtwoord 
 

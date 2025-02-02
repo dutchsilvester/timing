@@ -4,6 +4,10 @@ from helper6 import maak_set_van_lengte_aanvallen , maak_set_van_characters , ma
 from helper5 import TimeList, Timing, ScoreBoard
 import sys
 
+#### find code at github
+## https://github.com/dutchsilvester/timing.git
+
+
 ##### Dit is de uiteindelijke refactored opdracht file. Dit script zorgt voor een succesvolle aanval op de 
 #### Initialisatie
 
